@@ -1,0 +1,8 @@
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\bin\Debug\ejercicio17.exe.config
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\bin\Debug\ejercicio17.exe
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\bin\Debug\ejercicio17.pdb
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\obj\Debug\ejercicio17.csproj.AssemblyReference.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\obj\Debug\ejercicio17.csproj.SuggestedBindingRedirects.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\obj\Debug\ejercicio17.csproj.CoreCompileInputs.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\obj\Debug\ejercicio17.exe
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio17\obj\Debug\ejercicio17.pdb

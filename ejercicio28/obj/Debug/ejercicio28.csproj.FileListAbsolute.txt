@@ -1,0 +1,8 @@
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\bin\Debug\ejercicio28.exe.config
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\bin\Debug\ejercicio28.exe
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\bin\Debug\ejercicio28.pdb
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\obj\Debug\ejercicio28.csproj.AssemblyReference.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\obj\Debug\ejercicio28.csproj.SuggestedBindingRedirects.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\obj\Debug\ejercicio28.csproj.CoreCompileInputs.cache
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\obj\Debug\ejercicio28.exe
+D:\ProyectosVerano2023\GuiaDeEjercicios\ejercicio28\obj\Debug\ejercicio28.pdb
